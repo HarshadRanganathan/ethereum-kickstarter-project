@@ -1,0 +1,26 @@
+{
+  "name": "ethereum-kickstarter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshadRanganathan/ethereum-kickstarter-project.git"
+  },
+  "author": "Harshad Ranganathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshadRanganathan/ethereum-kickstarter-project/issues"
+  },
+  "homepage": "https://github.com/HarshadRanganathan/ethereum-kickstarter-project#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "web3": "^1.0.0-beta.37"
+  }
+}
