@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "next dev"
+    "dev": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/HarshadRanganathan/ethereum-kickstarter-project#readme",
   "dependencies": {
     "next": "^8.1.0",
+    "next-routes": "^1.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "semantic-ui-react": "^0.86.0",
